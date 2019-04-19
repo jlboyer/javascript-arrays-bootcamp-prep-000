@@ -13,10 +13,10 @@ function destructivelyAddElementToBeginningOfArray(array,element){
     return array
 };
 
-/*
+
 function destructivelyAddElementToEndOfArray(array, element){
     array.push(element)
-    return(array)
+    return array 
 };
 
 function accessElementInArray(array, index){
@@ -25,21 +25,21 @@ function accessElementInArray(array, index){
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
     array.shift()
-    return(array)
+    return array
 };
 
 function removeElementFromBeginningOfArray(array){
     newarray = array.slice(1)
-    return(newarray)
+    return newarray 
 };
 
-function destructivelyRemoveElementFromEndOfArray(arrayToBeModified){
-    arrayToBeModified.pop()
-    return(arrayToBeModified)
+function destructivelyRemoveElementFromEndOfArray(array){
+    array.pop()
+    return array 
 };
 
 function removeElementFromEndOfArray(array){
     newarray = array.slice(0, array.length - 1)
-    return(newarray)
+    return newarray
 };
 */
