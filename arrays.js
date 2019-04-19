@@ -1,7 +1,6 @@
 
 chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-/*
 function addElementToBeginningOfArray(array, element){
     return([element, ...array])
 };
@@ -43,4 +42,3 @@ function removeElementFromEndOfArray(array){
     newarray = array.slice(0, array.length - 1)
     return(newarray)
 };
-*/
