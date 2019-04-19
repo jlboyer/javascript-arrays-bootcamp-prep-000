@@ -42,4 +42,3 @@ function removeElementFromEndOfArray(array){
     newarray = array.slice(0, array.length - 1)
     return newarray
 };
-*/
